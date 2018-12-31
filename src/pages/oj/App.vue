@@ -6,9 +6,9 @@
         <router-view></router-view>
       </transition>
       <div class="footer">
-        <p v-html="website.website_footer"></p>
-        <p>Copyright &copy; <a href="https://blog.naver.com/dplus1016">득쌤. All right reserved.</a>
-          <span v-if="version">&nbsp; Version: {{ version }}</span>
+        
+        <p>Copyright &copy; <a href="https://blog.naver.com/dplus1016">득쌤. </a> All right reserved.
+       
         </p>
       </div>
     </div>
