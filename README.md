@@ -2,17 +2,59 @@
 
 ## 설치 방법
 
-노드 JS **v6.11** 버전이 설치가 되어 있어야 합니다.
+`$ mkdir OnlineJudge`
 
-sudo npm install
+위 폴더로 이동
 
-NODE_ENV=development sudo npm run build:dll
+`git clone https://github.com/dplus1016/OnlineJudgeFE`
 
-export TARGET=http://0.0.0.0
+OnlineJudgeFE 폴더로 이동
 
-npm run dev
+`$ sudo apt install nodejs-legacy`
 
-실행 이후의 Host의 80번 포트 혹은 443번 포트와 본 서버의 8080 포트와 포트 포워딩을 해주어야 합니다.
+`$ sudo apt install npm`
+
+`$ sudo npm clean cache -f`
+
+`$ sudo npm install -g n`
+
+`$ sudo n 6.11`
+
+`$ sudo npm install`
+
+여기까지.. nodejs 6.11 설치 완료
+
+`$ sudo npm install`
+
+`$ NODE_ENV=development sudo npm run build:dll`
+
+`$ export TARGET=http://0.0.0.0`
+
+`$ npm run dev`
+
+온라인저지 사이트가 한글화 되어 있는 것을 확인 할 수 있음
+
+다음 내용은 주피터 노트북을 활용하여 실시간으로 수정할 수 있도록 하는 것임
+
+`$ pip install jupyter`
+
+`$ sudo apt install jupyter-notebook`
+
+이제 ip주소만 알면 되는데...ip주소를 확인하려면...
+
+`$ sudo apt install net-tools`
+
+`$ ifconfig`
+
+출력 내용 중에서...ens로 구분되는 내용의 ip주소(inet)를 확인
+
+`$ jupyter-notebook --ip='000.000.000.000'`
+
+위의 주소부분에 자신의 ip주소를 입력
+
+주피터 노트북에 접속한 후에 OnlineJudge/OnlineJudgeFE 폴더에 있는 다양한 파일들을 확인하면서 수정하면,
+
+온라인저지 사이트에 즉시 
 
 ## 오픈소스 라이센스
 
