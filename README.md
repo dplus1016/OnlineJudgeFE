@@ -36,7 +36,7 @@
 
 `$ export TARGET=http://0.0.0.0/`
 
-`$ npm run dev`
+`$ npm run dev` -- FrontEnd 서버 구동(터미널을 꺼버리면 FrontEnd 서버도 멈춤)
 
 `http://0.0.0.0:8080` 에 접속 -- 온라인저지 사이트가 한글화 되어 있는 것을 확인 할 수 있음
 
