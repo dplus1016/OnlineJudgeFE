@@ -7,7 +7,7 @@
       </transition>
       <div class="footer">
         
-        <p>Copyright &copy; <a href="https://www.naver.com">. </a> All right reserved.
+        <p>Copyright &copy; <a href="https://www.naver.com">반갑습니다~^^ </a> All right reserved.
        
         </p>
       </div>
