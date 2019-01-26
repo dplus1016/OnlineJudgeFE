@@ -48,8 +48,6 @@
 
 터미널을 추가로 실행함 (shift 키를 누른 상태에서 터미널 클릭)
 
-`$ sudo apt install python-pip` -- pip 설치
-
 `$ pip install jupyter`
 
 `$ sudo apt install jupyter-notebook`
