@@ -64,7 +64,7 @@
 
 - 이때, 터미널 창에서 `http://000.000.000.000:8888/?token=2020dd78379a5d80419ec27afa3ad4eb8bd83877c6e6c0ed` 이런 형태의 코드가 링크되어 있는 것을 알 수 있음 / 이 링크를 클릭하거나 복사해서 사용해도 주피터 노트북에 접속이 가능함
 
-- 주피터 노트북에 접속한 후에 OnlineJudgeFE 폴더에 있는 다양한 파일들을 확인하면서 수정하면, 온라인저지 사이트에 즉시 반영됨
+- 주피터 노트북에 접속한 후에 OnlineJudgeFE 폴더에 있는 파일들을 수정한 후에 저장하면 온라인저지 사이트에 즉시 반영됨
 
 - 예) OnlineJudge - OnlineJudgeFE - src - pages - oj 폴더에서 App.vue 파일을 클릭하면 소스코드를 볼 수 있는데...
 - `Copyright &copy; <a href="https://www.naver.com">반갑습니다~^^ </a> All right reserved.` 의 부분을...
