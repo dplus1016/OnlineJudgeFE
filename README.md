@@ -20,7 +20,7 @@
 
 여기까지.. nodejs 6.11 설치 완료
 
-## FrontEnd 구동
+## FrontEnd 서버 구동
 
 `$ mkdir OnlineJudge` -- OnlineJudge 폴더 생성
 
@@ -43,6 +43,10 @@
 ## 주피터 노트북 활용
 
 이번 내용은 주피터 노트북을 활용하여 실시간으로 수정할 수 있도록 하는 것임
+
+앞서 진행했던 터미널을 그대로 둔 상태(FrontEnd 서버 구동 중)에서...
+
+터미널을 추가로 실행함 (shift 키를 누른 상태에서 터미널 클릭)
 
 `$ sudo apt install python-pip` -- pip 설치
 
