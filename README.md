@@ -2,6 +2,9 @@
 
 ## 설치 방법
 
+---
+## npdejf 6.11 
+
 `$ cd ~` -- 계정의 상위 폴더로 이동
 
 `$ sudo apt install git` -- git 
