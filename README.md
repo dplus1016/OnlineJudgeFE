@@ -28,9 +28,11 @@
 
 `$ cd OnlineJudgeFE` -- OnlineJudgeFE 폴더로 이동
 
+`$ sudo npm install` 
+
 `$ NODE_ENV=development sudo npm run build:dll`
 
-`$ export TARGET=http://0.0.0.0`
+`$ export TARGET=http://0.0.0.0/`
 
 `$ npm run dev`
 
