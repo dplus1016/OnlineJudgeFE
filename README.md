@@ -40,25 +40,35 @@
 
 다음 내용은 주피터 노트북을 활용하여 실시간으로 수정할 수 있도록 하는 것임
 
+`$ sudo apt install python-pip` -- pip 설치
+
 `$ pip install jupyter`
 
 `$ sudo apt install jupyter-notebook`
 
 이제 ip주소만 알면 되는데...ip주소를 확인하려면...
 
-`$ sudo apt install net-tools`
+`$ sudo apt install net-tools` 
 
-`$ ifconfig`
+`$ ifconfig` -- ip주소 정보를 확인
 
 출력 내용 중에서...ens로 구분되는 내용의 ip주소(inet)를 확인
 
-`$ jupyter-notebook --ip='000.000.000.000'`
+`$ jupyter-notebook --ip='000.000.000.000'` -- 위에서 확인한 주소를 입력하면 주피터 노트북에 접속이 됨
 
-위의 주소부분에 자신의 ip주소를 입력
+- 이때, 터미널 창에서 `http://000.000.000.000:8888/?token=2020dd78379a5d80419ec27afa3ad4eb8bd83877c6e6c0ed` 이런 형태의 코드가
 
-주피터 노트북에 접속한 후에 OnlineJudge/OnlineJudgeFE 폴더에 있는 다양한 파일들을 확인하면서 수정하면,
+링크되어 있는 것을 알 수 있음 / 이 링크를 클릭하거나 복사해서 사용해도 주피터 노트북에 접속이 가능함
 
-온라인저지 사이트에 즉시 반영됨
+- 주피터 노트북에 접속한 후에 OnlineJudgeFE 폴더에 있는 다양한 파일들을 확인하면서 수정하면, 온라인저지 사이트에 즉시 반영됨
+
+예) OnlineJudge - OnlineJudgeFE - src - pages - oj - App.vue 에서..
+
+`Copyright &copy; <a href="https://www.naver.com">반갑습니다.^^ </a> All right reserved.` 의 부분을...
+
+`Copyright &copy; <a href="https://www.naver.com">안득하</a> All right reserved.` 로 수정한 후에...
+
+`File - Save` 혹은 `Ctrl+s` 하면 저장되고 사이트에 반영이 됨
 
 ## 오픈소스 라이센스
 
