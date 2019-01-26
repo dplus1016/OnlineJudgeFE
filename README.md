@@ -6,17 +6,7 @@
 
 `$ sudo apt install git` -- git 
 
-`$ mkdir OnlineJudge` -- OnlineJudge 폴더 생성
-
-`$ cd OnlineJudge` -- OnlineJudge 폴더로 이동
-
-`$ git clone https://github.com/dplus1016/OnlineJudgeFE` -- OnlineJudge 폴더에 파일 다운로드
-
-`$ cd OnlineJudgeFE` -- OnlineJudgeFE 폴더로 이동
-
-`$ sudo npm install`
-
-`$ sudo apt install nodejs-legacy`
+`$ sudo apt install nodejs:i386` -- nodejs 설치
 
 `$ sudo apt install npm`
 
@@ -26,9 +16,17 @@
 
 `$ sudo n 6.11`
 
+`$ sudo node -v` -- 버전확인 v6.11.5를 확인
+
 여기까지.. nodejs 6.11 설치 완료
 
+`$ mkdir OnlineJudge` -- OnlineJudge 폴더 생성
 
+`$ cd OnlineJudge` -- OnlineJudge 폴더로 이동
+
+`$ git clone https://github.com/dplus1016/OnlineJudgeFE` -- OnlineJudge 폴더에 파일 다운로드
+
+`$ cd OnlineJudgeFE` -- OnlineJudgeFE 폴더로 이동
 
 `$ NODE_ENV=development sudo npm run build:dll`
 
