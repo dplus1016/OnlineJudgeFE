@@ -1,8 +1,10 @@
-# 득쌤의 온라인저지 프론트 엔드 (V. 1.0)
+# 득쌤의 온라인저지 프론트 엔드
 
 ## 설치 방법
 
 `$ cd ~` -- 계정의 상위 폴더로 이동
+
+`$ sudo apt install git` -- git 
 
 `$ mkdir OnlineJudge` -- OnlineJudge 폴더 생성
 
