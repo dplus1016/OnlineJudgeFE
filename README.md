@@ -4,7 +4,7 @@
 
 `$ cd ~` -- 계정의 상위 폴더로 이동
 
-`$ sudo apt install git` -- git 
+`$ sudo apt-get update`
 
 `$ sudo apt install nodejs:i386` -- nodejs 설치
 
