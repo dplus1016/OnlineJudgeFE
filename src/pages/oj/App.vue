@@ -7,7 +7,7 @@
       </transition>
       <div class="footer">
         
-        <p>Copyright &copy; <a href="https://blog.naver.com/dplus1016">득쌤. </a> All right reserved.
+        <p>Copyright &copy; <a href="https://www.naver.com">. </a> All right reserved.
        
         </p>
       </div>
