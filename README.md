@@ -2,15 +2,17 @@
 
 ## 설치 방법
 
-`$ cd ~` -- 계정의 상위 폴더에서 아래와 같이 폴더를 생성
+`$ cd ~` -- 계정의 상위 폴더로 이동
 
-`$ mkdir OnlineJudge`
+`$ mkdir OnlineJudge` -- OnlineJudge 폴더 생성
 
-`$ cd OnlineJudge` -- 위 폴더로 이동 후에..아래의 명령을 실행
+`$ cd OnlineJudge` -- OnlineJudge 폴더로 이동
 
-`$ git clone https://github.com/dplus1016/OnlineJudgeFE`
+`$ git clone https://github.com/dplus1016/OnlineJudgeFE` -- OnlineJudge 폴더에 파일 다운로드
 
-OnlineJudgeFE 폴더로 이동
+`$ cd OnlineJudgeFE` -- OnlineJudgeFE 폴더로 이동
+
+-----아래의 명령어를 순서대로 입력-----
 
 `$ sudo apt install nodejs-legacy`
 
