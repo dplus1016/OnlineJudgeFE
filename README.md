@@ -6,9 +6,9 @@
 
 `$ mkdir OnlineJudge`
 
-위 폴더로 이동
+위 폴더로 이동 후에..아래의 명령을 실행
 
-`git clone https://github.com/dplus1016/OnlineJudgeFE`
+`$ git clone https://github.com/dplus1016/OnlineJudgeFE`
 
 OnlineJudgeFE 폴더로 이동
 
