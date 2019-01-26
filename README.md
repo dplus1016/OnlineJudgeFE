@@ -6,7 +6,7 @@
 
 `$ sudo apt-get update`
 
-`$ sudo apt install nodejs:i386` -- nodejs 설치
+`$ sudo apt install nodejs` -- nodejs 설치
 
 `$ sudo apt install npm`
 
