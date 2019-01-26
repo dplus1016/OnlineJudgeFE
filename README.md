@@ -22,9 +22,7 @@
 
 ## FrontEnd 서버 구동
 
-`$ mkdir OnlineJudge` -- OnlineJudge 폴더 생성
-
-`$ cd OnlineJudge` -- OnlineJudge 폴더로 이동
+`$ mkdir OnlineJudge && cd OnlineJudge` -- OnlineJudge 폴더 생성 및 
 
 `$ git clone https://github.com/dplus1016/OnlineJudgeFE` -- OnlineJudge 폴더에 FrontEnd 소스코드 다운로드
 
