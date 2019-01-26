@@ -24,7 +24,7 @@
 
 `$ cd OnlineJudge` -- OnlineJudge 폴더로 이동
 
-`$ git clone https://github.com/dplus1016/OnlineJudgeFE` -- OnlineJudge 폴더에 파일 다운로드
+`$ git clone https://github.com/dplus1016/OnlineJudgeFE` -- OnlineJudge 폴더에 FrontEnd 소스코드 다운로드
 
 `$ cd OnlineJudgeFE` -- OnlineJudgeFE 폴더로 이동
 
