@@ -12,8 +12,7 @@
 
 `$ cd OnlineJudgeFE` -- OnlineJudgeFE 폴더로 이동
 
-
------아래의 명령들을 순서대로 입력-----
+`$ sudo npm install`
 
 `$ sudo apt install nodejs-legacy`
 
@@ -25,11 +24,9 @@
 
 `$ sudo n 6.11`
 
-`$ sudo npm install`
-
 여기까지.. nodejs 6.11 설치 완료
 
-`$ sudo npm install`
+
 
 `$ NODE_ENV=development sudo npm run build:dll`
 
