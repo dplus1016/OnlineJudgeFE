@@ -2,11 +2,11 @@
 
 ## 설치 방법
 
-계정의 상위 폴더에서 아래와 같이 폴더를 생성
+`$ cd ~` -- 계정의 상위 폴더에서 아래와 같이 폴더를 생성
 
 `$ mkdir OnlineJudge`
 
-위 폴더로 이동 후에..아래의 명령을 실행
+`$ cd OnlineJudge` -- 위 폴더로 이동 후에..아래의 명령을 실행
 
 `$ git clone https://github.com/dplus1016/OnlineJudgeFE`
 
