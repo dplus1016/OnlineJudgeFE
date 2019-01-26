@@ -12,7 +12,8 @@
 
 `$ cd OnlineJudgeFE` -- OnlineJudgeFE 폴더로 이동
 
------아래의 명령어를 순서대로 입력-----
+
+-----아래의 명령들을 순서대로 입력-----
 
 `$ sudo apt install nodejs-legacy`
 
