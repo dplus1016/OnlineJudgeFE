@@ -65,6 +65,8 @@
 - `Copyright &copy; <a href="https://www.naver.com">안득하</a> All right reserved.` 로 수정한 후에...
 - `File - Save` 혹은 `Ctrl+s` 하면 저장되고 사이트에 반영이 됨
 
+참고 : [유튜브 강좌] https://www.youtube.com/watch?v=hYr8ZHv40Nk&list=PLRx0vPvlEmdCSBgU29ZEmxqTr4ge-MoN_
+
 ## 오픈소스 라이센스
 
 [MIT](http://opensource.org/licenses/MIT)
