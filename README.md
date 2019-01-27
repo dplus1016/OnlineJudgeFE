@@ -71,6 +71,10 @@
 
 참고 : [유튜브 강좌] https://www.youtube.com/watch?v=i5z5YrGyMZY&list=PLRx0vPvlEmdCSBgU29ZEmxqTr4ge-MoN_&index=6
 
+## Testcase 만들기 
+
+https://github.com/dplus1016/OnlineJudge-Testcase-Macker
+
 ## 오픈소스 라이센스
 
 [MIT](http://opensource.org/licenses/MIT)
